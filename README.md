@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Krish-gsn/l/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Krish-gsn/l/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Krish-gsn/l/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/Krish-gsn/l/tree/master/0136-single-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krish-gsn/l/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Krish-gsn/l/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Krish-gsn/l/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
