@@ -6,15 +6,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Krish-gsn/l/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Krish-gsn/l/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Krish-gsn/l/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krish-gsn/l/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Krish-gsn/l/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Krish-gsn/l/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krish-gsn/l/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Krish-gsn/l/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krish-gsn/l/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -32,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krish-gsn/l/tree/master/0001-two-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Krish-gsn/l/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Krish-gsn/l/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
