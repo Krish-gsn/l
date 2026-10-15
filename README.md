@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Krish-gsn/l/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Krish-gsn/l/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Krish-gsn/l/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krish-gsn/l/tree/master/0977-squares-of-a-sorted-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Krish-gsn/l/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Krish-gsn/l/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -48,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Krish-gsn/l/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Krish-gsn/l/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Krish-gsn/l/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
