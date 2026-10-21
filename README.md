@@ -64,5 +64,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Krish-gsn/l/tree/master/0009-palindrome-number) |
 | [0539-minimum-time-difference](https://github.com/Krish-gsn/l/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
