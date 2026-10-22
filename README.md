@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Krish-gsn/l/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Krish-gsn/l/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Krish-gsn/l/tree/master/0075-sort-colors) |
+| [0680-valid-palindrome-ii](https://github.com/Krish-gsn/l/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krish-gsn/l/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krish-gsn/l/tree/master/0005-longest-palindromic-substring) |
 | [0539-minimum-time-difference](https://github.com/Krish-gsn/l/tree/master/0539-minimum-time-difference) |
+| [0680-valid-palindrome-ii](https://github.com/Krish-gsn/l/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Krish-gsn/l/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Krish-gsn/l/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Manacher
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Krish-gsn/l/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Krish-gsn/l/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
