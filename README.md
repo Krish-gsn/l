@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Krish-gsn/l/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Krish-gsn/l/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Krish-gsn/l/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Krish-gsn/l/tree/master/0005-longest-palindromic-substring) |
 | [0539-minimum-time-difference](https://github.com/Krish-gsn/l/tree/master/0539-minimum-time-difference) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Krish-gsn/l/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Krish-gsn/l/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Manacher
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Krish-gsn/l/tree/master/0009-palindrome-number) |
 | [0539-minimum-time-difference](https://github.com/Krish-gsn/l/tree/master/0539-minimum-time-difference) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Krish-gsn/l/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
