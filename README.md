@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krish-gsn/l/tree/master/0001-two-sum) |
+| [2325-decode-the-message](https://github.com/Krish-gsn/l/tree/master/2325-decode-the-message) |
 ## Quicksort
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Krish-gsn/l/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Krish-gsn/l/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Krish-gsn/l/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2325-decode-the-message](https://github.com/Krish-gsn/l/tree/master/2325-decode-the-message) |
 ## Manacher
 |  |
 | ------- |
