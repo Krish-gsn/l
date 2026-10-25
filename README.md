@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Krish-gsn/l/tree/master/0136-single-number) |
 | [0539-minimum-time-difference](https://github.com/Krish-gsn/l/tree/master/0539-minimum-time-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krish-gsn/l/tree/master/0977-squares-of-a-sorted-array) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Krish-gsn/l/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Krish-gsn/l/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Krish-gsn/l/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2325-decode-the-message](https://github.com/Krish-gsn/l/tree/master/2325-decode-the-message) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Krish-gsn/l/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Manacher
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Krish-gsn/l/tree/master/0680-valid-palindrome-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Krish-gsn/l/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 <!---LeetCode Topics End-->
