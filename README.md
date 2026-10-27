@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Krish-gsn/l/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Krish-gsn/l/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/Krish-gsn/l/tree/master/0539-minimum-time-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krish-gsn/l/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krish-gsn/l/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Krish-gsn/l/tree/master/0242-valid-anagram) |
 | [0890-find-and-replace-pattern](https://github.com/Krish-gsn/l/tree/master/0890-find-and-replace-pattern) |
 | [2325-decode-the-message](https://github.com/Krish-gsn/l/tree/master/2325-decode-the-message) |
 ## Quicksort
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krish-gsn/l/tree/master/0005-longest-palindromic-substring) |
+| [0242-valid-anagram](https://github.com/Krish-gsn/l/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/Krish-gsn/l/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/Krish-gsn/l/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Krish-gsn/l/tree/master/0680-valid-palindrome-ii) |
