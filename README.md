@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krish-gsn/l/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Krish-gsn/l/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Krish-gsn/l/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Krish-gsn/l/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Krish-gsn/l/tree/master/0136-single-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krish-gsn/l/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Krish-gsn/l/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Krish-gsn/l/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/Krish-gsn/l/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/Krish-gsn/l/tree/master/0647-palindromic-substrings) |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Krish-gsn/l/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Krish-gsn/l/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
