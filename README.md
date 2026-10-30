@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krish-gsn/l/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/Krish-gsn/l/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Krish-gsn/l/tree/master/0242-valid-anagram) |
 | [0890-find-and-replace-pattern](https://github.com/Krish-gsn/l/tree/master/0890-find-and-replace-pattern) |
 | [2325-decode-the-message](https://github.com/Krish-gsn/l/tree/master/2325-decode-the-message) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krish-gsn/l/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Krish-gsn/l/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/Krish-gsn/l/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Krish-gsn/l/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/Krish-gsn/l/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/Krish-gsn/l/tree/master/0647-palindromic-substrings) |
